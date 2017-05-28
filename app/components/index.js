@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
+import { Navigator} from 'react-native-deprecated-custom-components'
 import {
   StyleSheet,
   Image,
   Text,
   TouchableOpacity,
-  Navigator,
   View
 } from 'react-native';
 
